@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celialounes
-- 👀 I’m interested in backend dev
-- 🌱 I’m currently learning node js 
+- 👀 I’m interested in web dev 
+- 🌱 I’m currently learning node js & react .
 
 
 <!---
